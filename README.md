@@ -17,7 +17,8 @@ A simple IoT project which alerts user of any movement in an area where device i
 - /status        (Send Current Sensor Readings)
 - /help          (Display What Each Command Does)
 
-![1000024765](https://github.com/user-attachments/assets/f52ef2e1-cf62-4efa-9264-d41dd33e9726) ![1000024767](https://github.com/user-attachments/assets/fd3a3ded-bcdc-4f5b-88ce-522ec7277ff0)
+[1000024765](https://github.com/user-attachments/assets/f52ef2e1-cf62-4efa-9264-d41dd33e9726)
+[1000024767](https://github.com/user-attachments/assets/fd3a3ded-bcdc-4f5b-88ce-522ec7277ff0)
 
 
 
