@@ -19,12 +19,12 @@ A simple IoT project which alerts user of any movement if an area where device i
 
 ## Hardware
 
--Pico 2W board
--Ultrasonic Range Sensor
--Piezo
--Optional breadboard
--Power Supply (usb or battery)
--Jumper wires
+- Pico 2W board
+- Ultrasonic Range Sensor
+- Piezo
+- Optional breadboard
+- Power Supply (usb or battery)
+- Jumper wires
 
 ## Setup
 For setup Official Raspberry Pi SDK in Visual Studio Code is recommended
