@@ -10,6 +10,13 @@ A simple IoT project which alerts user of any movement if an area where device i
 - Use telegram bot for recieving and controlling device messages remotely
 - In-person alert using Piezo Buzzer
 
+# Provided Commands
+- /start         Start Device Monitoring Remotely
+- /stop          Stop Device Monitoring Remotely
+- /beep          Beep Device In-Person
+- /status        Send Current Sensor Readings
+- /help          Display What Each Command Does
+
 ## Hardware
 
 -Pico 2W board
