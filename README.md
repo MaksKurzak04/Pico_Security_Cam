@@ -8,7 +8,7 @@ A simple IoT project which alerts user of any movement in an area where device i
 - Wi-Fi Connectivity for remote control and access
 - Real-time monitoring with controls
 - Use telegram bot for recieving and controlling device messages remotely
-- In-person alert using Piezo Buzzer
+- Alerts user when movement detected (Telegram message sent to phone and buzzer makes noise)
 
 ## Provided Commands
 - /start         (Start Device Monitoring Remotely)
