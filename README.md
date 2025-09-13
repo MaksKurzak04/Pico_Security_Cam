@@ -38,7 +38,7 @@ For setup Official Raspberry Pi SDK in Visual Studio Code is recommended
    CHAT_ID = 'YOUR_TELEGRAM_CHAT_ID'
 
 4. Connect circuit as stated in code and also pictures below!
-[1000024770](https://github.com/user-attachments/assets/2d6f644a-d1ab-4251-bfca-ccc19a1fd677)
+![1000024770](https://github.com/user-attachments/assets/2d6f644a-d1ab-4251-bfca-ccc19a1fd677)
 ![1000024769](https://github.com/user-attachments/assets/82c02e4f-891b-4642-b11f-ab6765d59485)
 ![1000024768](https://github.com/user-attachments/assets/1002c1ed-7ecc-4786-8b57-227ecc59342d)
 
