@@ -1,6 +1,6 @@
 # Ultrasonic Movement Security Monitoring System with Raspberry Pi Pico 2W
 
-A simple IoT project which alerts user of any movement if an area where device is installed using a Pi Pico 2W amd an ultrasonic range sensor.
+A simple IoT project which alerts user of any movement if an area where device is installed using a Pi Pico 2W and ultrasonic range sensor.
 
 ## Features
 
